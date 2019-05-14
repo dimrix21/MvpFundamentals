@@ -11,9 +11,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".counter.screens.second.SecondActivity" />
-        <activity android:name=".counter.screens.main.MainActivity" />
-        <activity android:name=".recyclerview.screens.main.MainRecyclerView">
+        <activity android:name=".ex_4.screens.details.MoviesDetailsActivity" />
+
+        <activity android:name=".ex_4.screens.main.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
